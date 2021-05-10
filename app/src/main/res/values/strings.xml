@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WK1</string>
+    <string name="btn1Label">Calculate</string>
+    <string name="tvZero">0</string>
+</resources>
